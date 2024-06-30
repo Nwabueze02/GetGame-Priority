@@ -1,0 +1,66 @@
+{
+    "menuItems": [
+      {
+        "type": "Hot Sandwiches",
+        "items": [
+          { "name": "Cheese Steak", "prices": ["5.99", "6.99"] },
+          { "name": "Chicken Cheese Steak", "prices": ["5.99", "6.99"] },
+          { "name": "Meatball", "prices": ["4.99", "5.49"] },
+          { "name": "Rueban", "prices": ["5.99", "6.99"] },
+          { "name": "Chicken Parm", "prices": ["5.99", "6.99"] }
+        ]
+      },
+      {
+        "type": "Cold Sandwiches",
+        "items": [
+          { "name": "American", "prices": ["5.99", "6.99"] },
+          { "name": "Italian", "prices": ["5.99", "6.99"] },
+          { "name": "Turkey", "prices": ["5.99", "6.99"] },
+          { "name": "Ham", "prices": ["5.99", "6.99"] },
+          { "name": "Roast Beef", "prices": ["5.99", "6.99"] },
+          { "name": "Tuna", "prices": ["5.99", "6.99"] },
+          { "name": "Veggie", "prices": ["5.99", "6.99"] },
+          { "name": "Chick Pea \"Chicken\" salad", "prices": ["5.99", "6.99"] }
+        ]
+      },
+      {
+        "type": "Burgers",
+        "items": [
+          { "name": "Plain Hamburger", "prices": ["5.99", "6.99"] },
+          { "name": "Classic Cheeseburger", "prices": ["5.99", "6.99"] },
+          { "name": "California Burger", "prices": ["5.99", "6.99"] },
+          { "name": "Texas BBQ Burger", "prices": ["5.99", "6.99"] },
+          { "name": "Bacon Rueban Burger", "prices": ["5.99", "6.99"] }
+        ]
+      },
+      {
+        "type": "Baskets",
+        "items": [
+          { "name": "Chicken Tenders and Fries", "prices": ["5.99", "6.99"] },
+          { "name": "Boneless Wings and Fries", "prices": ["5.99", "6.99"] },
+          { "name": "Breaded Shrimp and Fries", "prices": ["5.99", "6.99"] }
+        ]
+      },
+      {
+        "type": "Loaded Fries",
+        "items": [
+          { "name": "Buffalo Chicken", "prices": ["5.99", "6.99"] },
+          { "name": "Bacon, Cheddar, Ranch", "prices": ["5.99", "6.99"] },
+          { "name": "Chicken, Bacon, Ranch", "prices": ["5.99", "6.99"] },
+          { "name": "BBQ Chicken Bacon Fries", "prices": ["5.99", "6.99"] }
+        ]
+      },
+      {
+        "type": "Sides",
+        "items": [
+          { "name": "French Fries", "prices": ["5.99", "6.99"] },
+          { "name": "Sweet Potato Fries", "prices": ["5.99", "6.99"] },
+          { "name": "Onion Rings", "prices": ["5.99", "6.99"] },
+          { "name": "Breaded Mushrooms", "prices": ["5.99", "6.99"] },
+          { "name": "Mozzarella Sticks", "prices": ["5.99", "6.99"] },
+          { "name": "Fried Pickles", "prices": ["5.99", "6.99"] },
+          { "name": "Fried Ravioli", "prices": ["5.99", "6.99"] }
+        ]
+      }
+    ]
+  }

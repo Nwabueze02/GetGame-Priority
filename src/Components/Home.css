@@ -1,0 +1,23 @@
+/* Home.css */
+.home-container {
+  padding: 20px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* Add styles for each component */
+.user-stats, .video-analysis, .similar-videos {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  text-align: center;
+}

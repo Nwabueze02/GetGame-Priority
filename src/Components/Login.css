@@ -1,0 +1,55 @@
+/* Login.css */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url('/Users/nwabueze/Downloads/IST 242/IST 256/IST 256 SP24/GetGame-Priority/src/Images/Kyrie.mp4') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    text-align: center;
+    
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    width: 100%;
+    padding: 10px;
+    background-color: #d11313;
+    border: none;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #660303;
+  }
+  
+  p {
+    margin-top: 15px;
+  }
+  
